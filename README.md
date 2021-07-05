@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cutukmirza, a master's student at the University of Geneva.
-- 👀 I’m interested in all things related to cryptography and security in general.
-- 🌱 I’m currently learning Rust and Python.
+- 👀 I’m interested in all things related to security.
+- 🌱 I’m currently working in Python and I am interested in expanding my set.
 - 💞️ I’m looking to collaborate on projects related to security.
 - 📫 How to reach me: email me on cutukmirza@gmail.com :)
 
